@@ -1,2 +1,2 @@
-Select * from A Group by Id Having Age>9
+Select * from A Group by Id Having Age>8
 
